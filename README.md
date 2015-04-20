@@ -1,5 +1,6 @@
 # PATDS2015Spring
 <em>Solutions to pat data structure 2015 spring problems </em><br />
+Missing solution can be found in PATBasic<br />
 Language : Python <br />
 Current update : 04-3 <br />
 AC-num :12 <br />
